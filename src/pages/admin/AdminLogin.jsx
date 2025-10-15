@@ -9,8 +9,8 @@ const AdminLogin = () => {
 
   // Dummy credentials (for demonstration only; replace with secure backend authentication)
   const DUMMY_CREDENTIALS = {
-    username: "chal",
-    password: "nikal123",
+    username: "kaha",
+    password: "sehai123",
   };
 
   const handleSubmit = (e) => {

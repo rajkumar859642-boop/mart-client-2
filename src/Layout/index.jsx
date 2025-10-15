@@ -24,7 +24,7 @@ const Layout = () => {
         <Route path="/thanku" element={<ConfirmationModal />} />
 
         {/* Admin Login */}
-        <Route path="/adsminbro" element={<AdminLogin   />} />
+        <Route path="/salesbro" element={<AdminLogin   />} />
 
         {/* Protected Routes */}
         <Route

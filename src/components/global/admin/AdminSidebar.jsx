@@ -21,8 +21,8 @@ const AdminSidebar = () => {
 
   // Dummy credentials for validation
   const DUMMY_CREDENTIALS = {
-    username: "chal",
-    password: "nikal123",
+    username: "kaha",
+    password: "sehai123",
   };
 
   // Check authData at mount
